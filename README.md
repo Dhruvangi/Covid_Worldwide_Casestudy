@@ -2,8 +2,11 @@
 Data were taken from https://ourworldindata.org/covid-deaths.
 
 In this project I have used SQL Server to explore global COVID 19 data.
+
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
 Perform EDA and Aggregation in My SQL Server.
+
 Prepared a Covid 19 dashboard in tableau using actions to understand geographical impact.
 
 
