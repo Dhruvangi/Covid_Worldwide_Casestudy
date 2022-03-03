@@ -4,7 +4,7 @@ Data were taken from https://ourworldindata.org/covid-deaths.
 - In this project I have used SQL Server to explore global COVID 19 data.
 - Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 - Perform EDA and Aggregation in My SQL Server.
-- total cases vs total death
+- - total cases vs total death
 - total cases vs total death in united states
 - What percentage of population got covid- Percentage of the population infected in covid
 - Countries with Highest Infecation rate compared to  Poplation
